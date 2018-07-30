@@ -9,14 +9,14 @@
 		"pawn-lang/YSI-Includes",
 		"Southclaws/pawn-uuid:1.0.0",
 		"Southclaws/pawn-errors:^1.0.0",
-		"ScavengeSurvive/button:^1.8.2",
-		"ScavengeSurvive/mathutil:^1.0.0",
-		"ScavengeSurvive/tick-difference:^1.0.0",
-		"ScavengeSurvive/action-text:^1.0.0",
-		"ScavengeSurvive/personal-space:^0.1.0"
+		"Dystopian-Roleplay/button:^1.8.2",
+		"Dystopian-Roleplay/mathutil:^1.0.0",
+		"Dystopian-Roleplay/tick-difference:^1.0.0",
+		"Dystopian-Roleplay/action-text:^1.0.0",
+		"Dystopian-Roleplay/personal-space:^0.1.0"
 	],
 	"dev_dependencies": [
-		"ScavengeSurvive/test-boilerplate",
+		"Dystopian-Roleplay/test-boilerplate",
 		"Southclaws/zcmd"
 	],
 	"builds": [
